@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(173, 195, 187);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.naslov{
+    font-size:40px;
+}
+.centar{
+    font-size: 17px;
+    padding: 40px;
+    margin-left: 40px;
+    text-align: center;
+
+}
+.dugme{
+    background-color:rgb(15, 71, 71);
+    color: aliceblue;
+    margin-left:5px;
+    border-radius: 5px;
+    padding: 7px;
+    font-size:15px;
+}
+.foter_moj{
+    background-color: rgb(77, 98, 91);
+    color: aliceblue;
+    margin-top: 400px;
+    height: 100px;
+    padding:40px;
+}
